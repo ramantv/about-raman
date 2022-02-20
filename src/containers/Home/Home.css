@@ -1,0 +1,90 @@
+.connect-icons {
+  background-color: #3d464e;
+  border-radius: 10px;
+}
+
+.devicon {
+  font-size: 5rem;
+  color: #89ccff;
+}
+
+.devicon:hover {
+  font-size: 5rem;
+  color: #d38900;
+}
+
+.home {
+  color: #fff;
+}
+
+.home-buttons {
+  height: 150px;
+  background-color: #3d464e;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.home-buttons:hover {
+  background-color: #005aa0;
+  cursor: pointer;
+}
+
+.home-buttons-text {
+  font-size: 1.2rem;
+}
+
+.home-link {
+  color: #ddeefb;
+}
+
+.home-link:hover {
+  color: #76b2e0;
+}
+
+.home-spacer {
+  height: 75px;
+}
+
+.icons {
+  background-color: #3d464e;
+  border-radius: 10px;
+  color: #fff;
+}
+
+#welcome-message {
+  font-size: 2.0rem;
+  /* font-family: "Amatic SC", "Courier New", Courier, monospace; */
+  /* font-family: "Heebo", sans-serif; */
+  /* font-family: "Montserrat", sans-serif; */
+  /* font-family: "Damion", sans-serif; */
+  /* font-family: "Raleway", sans-serif; */
+  font-family: 'Roboto Serif', sans-serif;
+  text-align: center;
+  margin-bottom: 75px;
+}
+
+@media screen and (max-width: 1920px) {
+  .home-spacer {
+    height: 50px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .home-spacer {
+    height: 25px;
+  }
+
+  #welcome-message {
+    margin-bottom: 25px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .home-spacer {
+    height: 0px;
+  }
+
+  #welcome-message {
+    margin-bottom: 10px;
+  }
+}

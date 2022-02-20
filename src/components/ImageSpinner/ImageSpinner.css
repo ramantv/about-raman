@@ -1,0 +1,16 @@
+.portfolio-spinner {
+  position: relative;
+  top: 40%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  color: #b1ddff;
+}
+
+.portfolio-spinner-container {
+  width: 100%;
+  height: 180px;
+  background-color: #0091ff;
+  object-fit: cover;
+  object-position: top;
+}
