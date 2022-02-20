@@ -1,6 +1,6 @@
 {
-  "homepage": "http://ramantv.github.io/",
-  "name": "about-raman",
+  "homepage": "http://ramantv.github.io/about-raman",
+  "name": "ramantv-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

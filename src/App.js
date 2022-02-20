@@ -32,9 +32,9 @@ function App() {
           {sidebarDisplay && <Sidebar />}
         </SidebarContext.Provider>
         <Switch>
-          <Route exact path="/" component={Home} />
-          <Route exact path="/portfolio" component={Portfolio} />
-          <Route exact path="/about" component={About} />
+          <Route exact path="/about-raman" component={Home} />
+          <Route exact path="/about-raman/portfolio" component={Portfolio} />
+          <Route exact path="/about-raman/about" component={About} />
         </Switch>
       </Router>
       <Footer />

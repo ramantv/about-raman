@@ -18,13 +18,13 @@ const Header = () => {
     <>
       <nav className="navbar navbar-expanded">
         <div className="col-4">
-          <Link to="/" className="h3 mr-4">
+          <Link to="/about-raman" className="h3 mr-4">
             Home
           </Link>
-          <Link to="/about" className="h3 mr-4">
+          <Link to="/about-raman/about" className="h3 mr-4">
             About
           </Link>
-          <Link to="/portfolio" className="h3 mr-4">
+          <Link to="/about-raman/portfolio" className="h3 mr-4">
             Portfolio
           </Link>
           <a href={resume} target="_blank" rel="noreferrer" className="h3">

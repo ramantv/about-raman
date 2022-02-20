@@ -7,12 +7,12 @@ const Home = () => {
 
   // Handles click on the about button
   const linkAbout = () => {
-    history.push(`/about`);
+    history.push(`/about-raman/about`);
   };
 
   // Handles click on the portfolio button
   const linkPortfolio = () => {
-    history.push(`/portfolio`);
+    history.push(`/about-raman/portfolio`);
   };
 
   return (
