@@ -28,8 +28,9 @@ This is Raman's personal portfolio website written using JavaScript, HTML, and R
 * React
 
 ## Setup
-* Clone GitHub repository 
-* run 'npm install'
+* Link to Repository: https://github.com/ramantv/about-raman
+* Clone GitHub repository.
+* run 'npm install'.
 * Run 'npm start' to start the application.
 
 ## Licenses
