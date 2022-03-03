@@ -1,68 +1,83 @@
 const projects = [
   /*
-  {
-    name: "Bliss Nails and Spa",
-    description: "Marketing page for a full-service nail salon.",
-    technologies:
-      "React, Bootstrap",
-    repository: "",
-    deployed: "https://www.blissnas.com",
-    image: "bliss.png",
-    imageAlt: "screenshot of Bliss Nails and Spa marketing page",
-    gif: "",
-  },
-  {
-    name: "Roam",
-    description: "An application for facilitating group travel.  Allows for managing trips, shared expenses, and tasks.",
-    technologies:
-      "React, Bulma, Node Sass, moment.js, react-router-dom, Figma, CSS Animations, React-dates, Chart.js, jsonwebtoken, Express, Node.js, MongoDB, MongoDB Atlas, Mongoose, Axios, Cookie-parser,  Express File Upload, bcrypt, dotenv, Google Places API, Cloudinary",
-    repository: "https://github.com/ramantv/roam",
-    deployed: "https://www.roam-together.com",
-    image: "roam.png",
-    imageAlt: "screenshot of Roam application",
-    gif: "",
-  },
-  {
-    name: "Bird Brains",
-    description: "A gamified bird-watching application",
-    technologies:
-      "HTML, CSS, JavaScript, jQuery, Materialize, Font-Awesome, Slick, Cloudinary API, Node.js, Express, Express Handlebars, Sequelize, ES Lint, Moment",
-    repository: "https://github.com/ramantv/bird-brains",
-    deployed: "https://www.bird-brains.com",
-    image: "bird.png",
-    imageAlt: "screenshot of Bird Brains application",
-    gif: "",
-  },
-  {
-    name: "What's in the Box?",
-    description:
-      "An application for tracking the context of boxes packed for household moving and storage projects",
-    technologies:
-      "HTML, CSS, JavaScript, jQuery, BootStrap, Font-Awesome, jQuery QR code library, paste.ee API, html2pdf API, orghunter charity search API, google maps API",
-    repository: "https://github.com/ramantv/whats-in-the-box",
-    deployed: "https://ramantv.github.io/whats-in-the-box/",
-    image: "box.png",
-    imageAlt: "screenshot of What's in the Box? application",
-    gif: "",
-  },
-  {
-    name: "Burger Eater!",
-    description: "A full-stack burger eating simulator",
-    technologies:
-      "HTML, CSS, JavaScript, BootStrap, Node.js, Express, Express Handlebars, MySQL, custom ORM",
-    repository: "https://github.com/ramantv/burger-eater",
-    deployed: "https://burger-experience.herokuapp.com/",
-    image: "burger.png",
-    imageAlt: "screenshot of Burger Eater application",
-    gif: "",
-  },
+    Add your projects here.
   */
+    {
+      name: "Subtrackt",
+      description:
+        "Subtrackt is a full-stack MERN application that provides users a way to track their video streaming subscriptions and serves as a ready-reckoner for the shows they watch.",
+      technologies:
+        "Node.js, React, Material UI, Express.js, JWT Auth, Mongo DB, Mongoose ODM, GraphQL, Apollo Server/Client, Heroku",
+      repository: "https://github.com/ramantv/Subscription-Tracker",
+      deployed: "https://quiet-wildwood-89723.herokuapp.com/",
+      image: "subtrackt.png",
+      imageAlt: "screenshot of Subtrackt application",
+      gif: "",
+    },
+    {
+      name: "Google Book Search",
+      description:
+        "Google Book Search is a full-stack MERN application that allows user to signup for an account, login and search for books, and choose to save them to their account.",
+      technologies:
+        "Node.js, React, Express.js, Mongo DB, Mongoose ODM, GraphQL, Apollo Server, Heroku",
+      repository: "https://github.com/ramantv/google-book-search",
+      deployed: "https://radiant-hamlet-31156.herokuapp.com/",
+      image: "google-book-search.png",
+      imageAlt: "screenshot of RVT Google Book Search application",
+      gif: "",
+    },
+  {
+    name: "RVT Budget Tracker",
+    description:
+      "A budget tracking application built as a Progressive Web App (PWA) that supports offline functionality.",
+    technologies:
+      "HTML, CSS, Javascript, Bootstrap, Node.js, Mongoose, Indexed DB for offline functionality",
+    repository: "https://github.com/ramantv/rvt-budget-tracker",
+    deployed: "https://secure-atoll-13232.herokuapp.com/",
+    image: "budget-tracker.png",
+    imageAlt: "screenshot of RVT Budget Tracker application",
+    gif: "",
+  },
+  {
+    name: "RVT Social Network API",
+    description:
+      "A back-end design and API for a Social Network using MongoDB, Mongoose and Express.js.",
+    technologies:
+      "Node.js, Express.js, Mongo DB, Mongoose ODM",
+    repository: "https://github.com/ramantv/rvt-social-network-api",
+    deployed: "https://youtu.be/kVbqks21kDY",
+    image: "sna4.png",
+    imageAlt: "screenshot of Social Network API application",
+    gif: "",
+  },
+  {
+    name: "Trippin' World-wide",
+    description:
+      "This application will provide a user the ability to journalize information about their travels.",
+    technologies: "HTML, CSS, Bootstrap, Handlebars.js, Node.js, Express.js, Sequelize ORM, MySQL2, AWS S3 Bucket for Media storage, Google Maps Geocoding APIs.",
+    repository: "https://github.com/hkapk/trippin-worldwide",
+    deployed: "https://trippin-worldwide.herokuapp.com/",
+    image: "trippin-worldwide.png",
+    imageAlt: "screenshot of Trippin' World-wide application",
+    gif: "",
+  },
+  {
+    name: "RVT Tech Blog",
+    description:
+      "This application creates a blogging site for Programmers and Technical folks.",
+    technologies: "Node.js Sequelize ORM, MySQL2, Express and Handlebars .js.",
+    repository: "https://github.com/ramantv/rvt_tech_blog",
+    deployed: "https://polar-plateau-30207.herokuapp.com/",
+    image: "rvt_tech_blog_home.png",
+    imageAlt: "screenshot of RVT Tech Blog application",
+    gif: "",
+  },
   {
     name: "Employee Tracker",
     description: "A command-line CMS for managing employee data",
     technologies: "Node.js, MySQL, Inquirer",
     repository: "https://github.com/ramantv/employee-tracker",
-    deployed: "",
+    deployed: "https://www.youtube.com/watch?v=bb4UYMW24zc",
     image: "employee.png",
     imageAlt: "screenshot of Employee Tracker application",
     gif: "",
@@ -73,9 +88,21 @@ const projects = [
       "An app for creating, saving, editing and deleting plain text notes.",
     technologies: "HTML, CSS, JavaScript, jQuery, BootStrap, Node.js, Express",
     repository: "https://github.com/ramantv/note-taker",
-    deployed: "https://note-taker-dpk.herokuapp.com/",
+    deployed: "https://damp-anchorage-08235.herokuapp.com/",
     image: "note.png",
     imageAlt: "screenshot of Note Taker application",
+    gif: "",
+  },
+  {
+    name: "Explore National Parks",
+    description:
+      "An adventure portal into the world of America's National Parks. App allows the user to get information about all the National Parks in that state",
+    technologies:
+      "HTML, CSS, JavaScript, jQuery, and the Bulma CSS Framework",
+    repository: "https://github.com/ramantv/explore_national_parks",
+    deployed: "https://ramantv.github.io/explore_national_parks/",
+    image: "Explore-NP.png",
+    imageAlt: "screenshot of Explore National Parks application",
     gif: "",
   },
   {
@@ -85,7 +112,7 @@ const projects = [
     technologies:
       "HTML, CSS, Bootstrap CSS Framework, JavaScript, jQuery, and the font-awesome icon pack",
     repository: "https://github.com/ramantv/weather-dashboard",
-    deployed: "https://ramantv.github.io/weather-dashboard/",
+    deployed: "https://ramantv.github.io/rvt_weather_dashboard/",
     image: "weather.png",
     imageAlt: "screenshot of Weather Dashboard application",
     gif: "",
@@ -96,7 +123,7 @@ const projects = [
       "An HTML-based coding quiz game, dynamically updated and tracked using DOM manipulation and local storage",
     technologies: "HTML, CSS, Bootstrap CSS Framework, and JavaScript",
     repository: "https://github.com/ramantv/code-quiz-game",
-    deployed: "https://ramantv.github.io/code-quiz-game/",
+    deployed: "https://ramantv.github.io/js_code_quiz/",
     image: "quiz.png",
     imageAlt: "screenshot of Coding Quiz Challenge application",
     gif: "",
@@ -106,8 +133,8 @@ const projects = [
     description:
       "A simple workday planning application using HTML, CSS and jQuery",
     technologies: "HTML, CSS, JavaScript, jQuery, Font Awesome",
-    repository: "https://github.com/ramantv/workday-planner",
-    deployed: "https://ramantv.github.io/workday-planner/",
+    repository: "https://github.com/ramantv/workday_scheduler",
+    deployed: "https://ramantv.github.io/workday_scheduler/",
     image: "planner.png",
     imageAlt: "screenshot of Workday Planner application",
     gif: "",
@@ -115,7 +142,7 @@ const projects = [
   {
     name: "Password Generator",
     description:
-      "A simple password generator which uses modal windows to solicit the user's parameters for the password, and generates a random password based upon the user selections.",
+      "A simple password generator which uses modal windows to gather the user's requirements for the password, and generates a random password based upon the user selections.",
     technologies: "HTML, CSS, JavaScript",
     repository: "https://github.com/ramantv/password-generator",
     deployed: "https://ramantv.github.io/password-generator/",

@@ -85,14 +85,16 @@ const Home = () => {
               <i className="devicon-docker-plain devicon m-2" aria-label="Docker icon"></i>
               <i className="devicon-mongodb-plain-wordmark devicon m-2" aria-label="MongoDB icon"></i>
               <i className="devicon-express-original devicon m-2" aria-label="Express icon"></i>
-              <i className="devicon-react-original-wordmark devicon m-2" aria-label="React icon"></i>
               <i className="devicon-nodejs-plain devicon m-2" aria-label="Node.js icon"></i>
+              <i className="devicon-react-original-wordmark devicon m-2" aria-label="React icon"></i>
+              <i className="devicon-materialui-plain devicon m-2" aria-label="Material-UI icon"></i>
+              <i className="devicon-graphql-plain-wordmark devicon m-2" aria-label="GraphQL icon"></i>
               <i className="devicon-javascript-plain devicon m-2" aria-label="JavaScript icon"></i>
               <i className="devicon-jquery-plain-wordmark devicon m-2" aria-label="jQuery icon"></i>
               <i className="devicon-html5-plain-wordmark devicon m-2" aria-label="HTML5 icon"></i>
               <i className="devicon-mysql-plain-wordmark devicon m-2" aria-label="MySQL icon"></i>
-              <i className="devicon-handlebars-plain-wordmark devicon m-2" aria-label="Handlebars icon"></i>
               <i className="devicon-sequelize-plain-wordmark devicon m-2" aria-label="Sequelize icon"></i>
+              <i className="devicon-handlebars-plain-wordmark devicon m-2" aria-label="Handlebars icon"></i>
               <i className="devicon-bootstrap-plain-wordmark devicon m-2" aria-label="Bootstrap icon"></i>
               <i className="devicon-css3-plain-wordmark devicon m-2" aria-label="CSS3 icon"></i>
               <i className="devicon-git-plain-wordmark devicon m-2" aria-label="Git icon"></i>
