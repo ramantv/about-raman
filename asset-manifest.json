@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/about-raman/static/css/main.15e62659.chunk.css",
-    "main.js": "/about-raman/static/js/main.6145f506.chunk.js",
-    "main.js.map": "/about-raman/static/js/main.6145f506.chunk.js.map",
+    "main.js": "/about-raman/static/js/main.14ce4c38.chunk.js",
+    "main.js.map": "/about-raman/static/js/main.14ce4c38.chunk.js.map",
     "runtime-main.js": "/about-raman/static/js/runtime-main.e97da4b6.js",
     "runtime-main.js.map": "/about-raman/static/js/runtime-main.e97da4b6.js.map",
-    "static/js/2.3434ea60.chunk.js": "/about-raman/static/js/2.3434ea60.chunk.js",
-    "static/js/2.3434ea60.chunk.js.map": "/about-raman/static/js/2.3434ea60.chunk.js.map",
+    "static/js/2.4aad2412.chunk.js": "/about-raman/static/js/2.4aad2412.chunk.js",
+    "static/js/2.4aad2412.chunk.js.map": "/about-raman/static/js/2.4aad2412.chunk.js.map",
     "index.html": "/about-raman/index.html",
     "static/css/main.15e62659.chunk.css.map": "/about-raman/static/css/main.15e62659.chunk.css.map",
-    "static/js/2.3434ea60.chunk.js.LICENSE.txt": "/about-raman/static/js/2.3434ea60.chunk.js.LICENSE.txt",
+    "static/js/2.4aad2412.chunk.js.LICENSE.txt": "/about-raman/static/js/2.4aad2412.chunk.js.LICENSE.txt",
     "static/media/AON3.png": "/about-raman/static/media/AON3.9ec6bb1a.png",
+    "static/media/Explore-NP.png": "/about-raman/static/media/Explore-NP.cc8d999e.png",
     "static/media/GE-Symbol1.png": "/about-raman/static/media/GE-Symbol1.93bd1d43.png",
     "static/media/JPMC-logo1.png": "/about-raman/static/media/JPMC-logo1.b39f4630.png",
     "static/media/Rafa_my_loyal_buddy.jpg": "/about-raman/static/media/Rafa_my_loyal_buddy.e4d6d0c5.jpg",
@@ -19,20 +20,28 @@
     "static/media/Working_on_my_react_portfolio_website.jpg": "/about-raman/static/media/Working_on_my_react_portfolio_website.0be9a519.jpg",
     "static/media/amazon-logo-drk1.png": "/about-raman/static/media/amazon-logo-drk1.fc2494ef.png",
     "static/media/banner3.jpeg": "/about-raman/static/media/banner3.fcaca563.jpeg",
+    "static/media/budget-tracker.png": "/about-raman/static/media/budget-tracker.5a4930d5.png",
     "static/media/ca-broadcom1.png": "/about-raman/static/media/ca-broadcom1.d2c1e03b.png",
     "static/media/contact.jpg": "/about-raman/static/media/contact.0a9c58a2.jpg",
-    "static/media/note.png": "/about-raman/static/media/note.265158be.png",
-    "static/media/planner.png": "/about-raman/static/media/planner.cef22510.png",
+    "static/media/employee.png": "/about-raman/static/media/employee.7c1db7a2.png",
+    "static/media/google-book-search.png": "/about-raman/static/media/google-book-search.ec866132.png",
+    "static/media/note.png": "/about-raman/static/media/note.f3f406fe.png",
+    "static/media/planner.png": "/about-raman/static/media/planner.84ac6c11.png",
     "static/media/portfolio.jpg": "/about-raman/static/media/portfolio.cc820719.jpg",
+    "static/media/quiz.png": "/about-raman/static/media/quiz.75d8a66d.png",
     "static/media/raman-pp.png": "/about-raman/static/media/raman-pp.0e41dc1a.png",
     "static/media/rvt-resume-stub.2b6199b1.pdf": "/about-raman/static/media/rvt-resume-stub.2b6199b1.pdf",
+    "static/media/rvt_tech_blog_home.png": "/about-raman/static/media/rvt_tech_blog_home.9b067160.png",
+    "static/media/sna4.png": "/about-raman/static/media/sna4.d7eec74f.png",
+    "static/media/subtrackt.png": "/about-raman/static/media/subtrackt.e55216df.png",
+    "static/media/trippin-worldwide.png": "/about-raman/static/media/trippin-worldwide.24e9be7a.png",
     "static/media/walk_with_rafa_and_son.jpg": "/about-raman/static/media/walk_with_rafa_and_son.a845a634.jpg",
-    "static/media/weather.png": "/about-raman/static/media/weather.7ade5f7c.png"
+    "static/media/weather.png": "/about-raman/static/media/weather.a8affe0a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e97da4b6.js",
-    "static/js/2.3434ea60.chunk.js",
+    "static/js/2.4aad2412.chunk.js",
     "static/css/main.15e62659.chunk.css",
-    "static/js/main.6145f506.chunk.js"
+    "static/js/main.14ce4c38.chunk.js"
   ]
 }
