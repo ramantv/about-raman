@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/about-raman/static/css/main.15e62659.chunk.css",
-    "main.js": "/about-raman/static/js/main.ead7803f.chunk.js",
-    "main.js.map": "/about-raman/static/js/main.ead7803f.chunk.js.map",
+    "main.js": "/about-raman/static/js/main.e9e1064c.chunk.js",
+    "main.js.map": "/about-raman/static/js/main.e9e1064c.chunk.js.map",
     "runtime-main.js": "/about-raman/static/js/runtime-main.e97da4b6.js",
     "runtime-main.js.map": "/about-raman/static/js/runtime-main.e97da4b6.js.map",
-    "static/js/2.4aad2412.chunk.js": "/about-raman/static/js/2.4aad2412.chunk.js",
-    "static/js/2.4aad2412.chunk.js.map": "/about-raman/static/js/2.4aad2412.chunk.js.map",
+    "static/js/2.68649a2f.chunk.js": "/about-raman/static/js/2.68649a2f.chunk.js",
+    "static/js/2.68649a2f.chunk.js.map": "/about-raman/static/js/2.68649a2f.chunk.js.map",
     "index.html": "/about-raman/index.html",
     "static/css/main.15e62659.chunk.css.map": "/about-raman/static/css/main.15e62659.chunk.css.map",
-    "static/js/2.4aad2412.chunk.js.LICENSE.txt": "/about-raman/static/js/2.4aad2412.chunk.js.LICENSE.txt",
+    "static/js/2.68649a2f.chunk.js.LICENSE.txt": "/about-raman/static/js/2.68649a2f.chunk.js.LICENSE.txt",
     "static/media/AON3.png": "/about-raman/static/media/AON3.9ec6bb1a.png",
     "static/media/Explore-NP.png": "/about-raman/static/media/Explore-NP.cc8d999e.png",
     "static/media/GE-Symbol1.png": "/about-raman/static/media/GE-Symbol1.93bd1d43.png",
@@ -31,6 +31,7 @@
     "static/media/quiz.png": "/about-raman/static/media/quiz.75d8a66d.png",
     "static/media/raman-pp.png": "/about-raman/static/media/raman-pp.0e41dc1a.png",
     "static/media/rvt-resume-stub.2b6199b1.pdf": "/about-raman/static/media/rvt-resume-stub.2b6199b1.pdf",
+    "static/media/rvt.jpg": "/about-raman/static/media/rvt.93435ffc.jpg",
     "static/media/rvt_tech_blog_home.png": "/about-raman/static/media/rvt_tech_blog_home.9b067160.png",
     "static/media/sna4.png": "/about-raman/static/media/sna4.d7eec74f.png",
     "static/media/subtrackt.png": "/about-raman/static/media/subtrackt.e55216df.png",
@@ -40,8 +41,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e97da4b6.js",
-    "static/js/2.4aad2412.chunk.js",
+    "static/js/2.68649a2f.chunk.js",
     "static/css/main.15e62659.chunk.css",
-    "static/js/main.ead7803f.chunk.js"
+    "static/js/main.e9e1064c.chunk.js"
   ]
 }
