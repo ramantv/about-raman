@@ -55,7 +55,7 @@ const projects = [
     description:
       "This application will provide a user the ability to journalize information about their travels.",
     technologies: "HTML, CSS, Bootstrap, Handlebars.js, Node.js, Express.js, Sequelize ORM, MySQL2, AWS S3 Bucket for Media storage, Google Maps Geocoding APIs.",
-    repository: "https://github.com/hkapk/trippin-worldwide",
+    repository: "https://github.com/ramantv/trippin-worldwide",
     deployed: "https://trippin-worldwide.herokuapp.com/",
     image: "trippin-worldwide.png",
     imageAlt: "screenshot of Trippin' World-wide application",
